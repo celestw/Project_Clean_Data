@@ -21,6 +21,6 @@ This is how it has the data cleaned and results generated
 
 List of references
 -----------------
-https://github.com/foxyreign/Getting-and-Cleaning-Data/blob/master/run_analysis.R
-https://rstudio-pubs-static.s3.amazonaws.com/37290_8e5a126a3a044b95881ae8df530da583.html
+1. https://github.com/foxyreign/Getting-and-Cleaning-Data/blob/master/run_analysis.R
+2. https://rstudio-pubs-static.s3.amazonaws.com/37290_8e5a126a3a044b95881ae8df530da583.html
 
